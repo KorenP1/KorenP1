@@ -5,9 +5,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-FCC624.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Helm](https://img.shields.io/badge/helm-%232C5263.svg?style=for-the-badge&logo=helm&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Helm](https://img.shields.io/badge/helm-%232C5263.svg?style=for-the-badge&logo=helm&logoColor=white)
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/openshift-EE0000.svg?style=for-the-badge&logo=redhatopenshift&logoColor=white)
