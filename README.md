@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Koren Peretz</h2>
-<h3 align="center">DevOps Engineer from Israel</h3>
+<h4 align="center">DevOps Engineer from Israel</h4>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -29,5 +29,5 @@
 
 
 # 🛠️ Open Source Contributions
-<a href="https://github.com/bitnami/charts/issues?q=author%3AKorenP1%20is%3Amerged"><img src="https://avatars.githubusercontent.com/u/5446553" style="width:42px;height:42px;"></a>
-<a href="default.asp"><img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;"></a>
+<a href="https://github.com/bitnami/charts/pulls?q=author%3AKorenP1%20is%3Amerged"><img src="https://avatars.githubusercontent.com/u/5446553" style="width:50px;height:50px;"></a>
+<a href="https://github.com/rowanruseler/helm-charts/pulls?q=author%3AKorenP1+is%3Amerged"><img src="https://pgadmin.org/favicon.ico" style="width:50px;height:50px;"></a>
