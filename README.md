@@ -30,6 +30,8 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
+![Keycloak](https://img.shields.io/badge/keycloak-4D4D4D.svg?style=for-the-badge&logo=keycloak&logoColor=white)
+
 ## 🛠️ Open Source Contributions
 <a href="https://github.com/bitnami/charts/pulls?q=author%3AKorenP1%20is%3Amerged"><img src="https://avatars.githubusercontent.com/u/5446553" style="width:70px;height:70px;"></a>
 <a href="https://github.com/rowanruseler/helm-charts/pulls?q=author%3AKorenP1+is%3Amerged"><img src="https://www.pgadmin.org/static/COMPILED/assets/img/favicon.ico" style="width:70px;height:70px;"></a>
