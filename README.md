@@ -34,4 +34,4 @@
 
 ## 🛠️ Open Source Contributions
 <a href="https://github.com/bitnami/charts/pulls?q=author%3AKorenP1%20is%3Amerged"><img src="https://avatars.githubusercontent.com/u/5446553" style="width:70px;height:70px;"></a>
-<a href="https://github.com/rowanruseler/helm-charts/pulls?q=author%3AKorenP1+is%3Amerged"><img src="https://www.pgadmin.org/static/COMPILED/assets/img/favicon.ico" style="width:70px;height:70px;"></a>
+<a href="https://github.com/rowanruseler/helm-charts/pull/277"><img src="https://www.pgadmin.org/static/COMPILED/assets/img/favicon.ico" style="width:70px;height:70px;"></a>
