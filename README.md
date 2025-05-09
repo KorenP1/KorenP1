@@ -35,4 +35,4 @@
 ## 🛠️ Open Source Contributions
 <a href="https://github.com/bitnami/charts/pulls?q=author%3AKorenP1%20is%3Amerged"><img src="https://avatars.githubusercontent.com/u/5446553" style="width:70px;height:70px;"></a>
 <a href="https://github.com/pgadmin-org/pgadmin4/pulls?q=author%3AKorenP1%20is%3Amerged"><img src="https://www.pgadmin.org/static/COMPILED/assets/img/favicon.ico" style="width:70px;height:70px;"></a>
-<a href="https://github.com/rowanruseler/helm-charts/pulls?q=author%3AKorenP1%20is%3Amerged"><img src="https://www.google.com/url sa=i&url=https%3A%2F%2Fnavratangupta.medium.com%2F&psig=AOvVaw06dsHnzFNxS2omQXiAaQlI&ust=1746873133429000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjA8veXlo0DFQAAAAAdAAAAABAE" style="width:70px;height:70px;"></a>
+<a href="https://github.com/rowanruseler/helm-charts/pulls?q=author%3AKorenP1%20is%3Amerged"><img src="https://miro.medium.com/v2/1*_hYQfeM4w-hGeKdaRjI5wQ.png" style="width:70px;height:70px;"></a>
